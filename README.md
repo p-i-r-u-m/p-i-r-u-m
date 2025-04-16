@@ -92,3 +92,9 @@ So I built a workflow once — and now I just plug in the code, and everything e
 > **System-first. Automation. Clarity.**
 
 </details>
+
+---
+
+### 🧭 Final note
+
+> I'm just doing my thing — `learning`, `building`, and trying to make it `make sense`.
