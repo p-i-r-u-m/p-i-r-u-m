@@ -33,4 +33,23 @@ I believe that great systems are built through **understanding**, not rushing �
 
 > I also experiment with `UI/UX` design using `Figma`, work with the `Arduino IDE`, and have hands-on experience with `Arduino`, `ESP32`, and `basic soldering`.
 
-> I'm also fairly comfortable with `physics` — not at a professional level, but enough to understand the world more deeply.
+> I'm also fairly comfortable with `physics` — not professionally, but enough to better understand how the world works.
+
+---
+
+### 💡 Creative side
+
+Besides tech, I also ran a [**YouTube channel**](https://www.youtube.com/@pirum_)
+ where I shared music video edits — blending visuals, emotion, and rhythm. I believe good engineering and design are both about **balance and intention**.
+
+---
+
+### 🏆 Highlights
+
+- Participant of [**UpShift Ukraine**](https://upshiftukraine.org/) youth innovation program.
+- 🥉 3rd place at the city-level [**Physics J.A.S.**](https://man.gov.ua/) competition.
+- Finalist of ["Rozkvitay 2023"](https://www.klitschkofoundation.org/en/projects/rozkvitay/) — a youth innovation program that creates a safe space for dialogue, learning, and psychological support amid the challenges of war in Ukraine.
+- Completed the theoretical part of the [**“Democracy Hub in Switzerland”**](https://www.klitschkofoundation.org/en/projects/democracy-hub-in-switzerland/) course — an educational initiative that explores democratic values and institutions, inspired by the Swiss model.
+- Participant of [**TED-Ed Club S10**](https://youtu.be/0-Lc6IxVc-o?si=2PNkMkhbqBTQMKx9) — engaged in developing and presenting ideas through TED-style talks, fostering public speaking and critical thinking skills.
+
+---
