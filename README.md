@@ -1,6 +1,6 @@
 ### Hey, I'm Ivan Hrushevskyi👋
 
-#### DevOps-engineer-in-progress — learning fast, focused, thinking deep.
+#### DevOps-engineer-in-progress — `learning fast`, `focused`, `thinking deep`.
 
 ---
 
@@ -11,7 +11,7 @@ I believe that great systems are built through **understanding**, not rushing �
 
 - Currently, I'm exploring **DevOps** through hands-on projects, using tools like `Linux`, `nvim`, `GitHub Actions`, and building small, real systems from scratch. 
 
-- **My mission** — is to grow into an engineer who builds infrastructure that `protects`, `scales`, and actually `matters` — `impacts` our world.
+- **My mission** — grow into an engineer who builds infrastructure that `protects`, `scales`, and actually `matters` — `impacts` our world.
 
 > In my free time, I enjoy **Minecraft** and **strategic games**, where I can apply my problem-solving skills and creativity, much like building with LEGO, but in the digital world.
 
