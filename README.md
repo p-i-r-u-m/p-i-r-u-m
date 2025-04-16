@@ -54,7 +54,7 @@ Besides tech, I also ran a [**YouTube channel**](https://www.youtube.com/@pirum_
 
 - Participant of [**UpShift Ukraine**](https://upshiftukraine.org/) youth innovation program.
 - 🥉 3rd place at the city-level [**Physics J.A.S.**](https://man.gov.ua/) competition.
-- Finalist of ["Rozkvitay 2023"](https://www.klitschkofoundation.org/en/projects/rozkvitay/) — a youth innovation program that creates a safe space for dialogue, learning, and psychological support amid the challenges of war in Ukraine.
+- Finalist of [**"Rozkvitay 2023"**](https://www.klitschkofoundation.org/en/projects/rozkvitay/) — a youth innovation program that creates a safe space for dialogue, learning, and psychological support amid the challenges of war in Ukraine.
 - Completed the theoretical part of the [**“Democracy Hub in Switzerland”**](https://www.klitschkofoundation.org/en/projects/democracy-hub-in-switzerland/) course — an educational initiative that explores democratic values and institutions, inspired by the Swiss model.
 - Participant of [**TED-Ed Club S10**](https://youtu.be/0-Lc6IxVc-o?si=2PNkMkhbqBTQMKx9) — engaged in developing and presenting ideas through TED-style talks, fostering public speaking and critical thinking skills.
 
