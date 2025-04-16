@@ -53,3 +53,10 @@ Besides tech, I also ran a [**YouTube channel**](https://www.youtube.com/@pirum_
 - Participant of [**TED-Ed Club S10**](https://youtu.be/0-Lc6IxVc-o?si=2PNkMkhbqBTQMKx9) — engaged in developing and presenting ideas through TED-style talks, fostering public speaking and critical thinking skills.
 
 ---
+
+### 🌍 Languages
+
+- `🇺🇦 Ukrainian` — native
+- `🇬🇧 English` — B2 (confident written & spoken)
+
+---
