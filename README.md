@@ -66,3 +66,29 @@ Besides tech, I also ran a [**YouTube channel**](https://www.youtube.com/@pirum_
 - `🇬🇧 English` — B2 (confident written & spoken)
 
 ---
+
+<details>
+<summary>💼 <h3>Work I am proud of</h3></summary>
+
+### [`uni-labs-automation`](https://github.com/p-i-r-u-m/uni-labs-automation) — Automating routine, engineering with purpose
+
+> I treated regular university lab work like real-world infrastructure.  
+> Instead of manually building reports like everyone else, I applied **DevOps thinking** — designing a system that builds, tests, and documents code **automatically**.
+
+🔧 **What I built:**
+
+- A ready-to-go C++ project environment using `CMake` + `Google Test`.
+- Scripts to handle `build`, `test`, `run`, and `report` generation — everything one command away.
+- Auto-generation of `UML class diagrams` from actual code using `clang-uml`.
+- Integration with a `SQLite database` to pull current lab tasks and insert them into `.docx` reports.
+- Report builder in Python — compiling everything into a structured, ready-to-submit lab report.
+
+🧠 **Why I did it:**
+
+I believe engineering is about **solving problems at the root** — and repetitive tasks should never be done twice.  
+So I built a workflow once — and now I just plug in the code, and everything else follows.
+
+> The system saves time, ensures consistency, and reflects how I approach any challenge:  
+> **System-first. Automation. Clarity.**
+
+</details>
