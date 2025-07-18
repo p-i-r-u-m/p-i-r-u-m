@@ -15,7 +15,7 @@
 I approach engineering with a **minimalist mindset** — always aiming for clarity, stability, and **long-term thinking**.  
 I believe that great systems are built through **understanding**, not rushing — and that **simplicity is a strength**, not a shortcut.
 
-- Currently, I'm exploring **DevOps** through hands-on projects, using tools like `Linux`, `nvim`, `GitHub Actions`, and building small, real systems from scratch. 
+- Currently, I'm exploring **DevOps** through hands-on projects by learning `Linux`, `Networking`, `Bash`, `Pyhton` and focused on `Docker/Terraform`. 
 
 - **My mission** — grow into an engineer who builds infrastructure that `protects`, `scales`, and actually `matters` — `impacts` our world.
 
@@ -25,28 +25,13 @@ I believe that great systems are built through **understanding**, not rushing �
 
 ### 🔍 Tech & Tools I’ve worked with
 
-- `Linux` (Fedora, Debian, Arch), `Git`, `GitHub Actions` (basic), `Docker` (basic)
-
-- `Google Test` (unit testing), `Bash scripting` (simple automation)
-
-- `HTML`, `CSS`, `JavaScript` (basic), `Vue.js` (basic)
-
-- `Neovim`, `Markdown`, `VS Code`
-
-- `C++`, `Python`
-
-- `Unity`, `C#`
-
-> I also experiment with `UI/UX` design using `Figma`, work with the `Arduino IDE`, and have hands-on experience with `Arduino`, `ESP32`, and `basic soldering`.
-
-> I'm also fairly comfortable with `physics` — not professionally, but enough to better understand how the world works.
-
+- 
 ---
 
 ### 💡 Creative side
 
 Besides tech, I also ran a [**YouTube channel**](https://www.youtube.com/@pirum_)
- where I shared music video edits — blending visuals, emotion, and rhythm. I believe good engineering and design are both about **balance and intention**.
+ where I shared my experiments in different technologies and my learning path.
 
 ---
 
